@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hallo 👋
 
+ich bin Mathias und lerne gerade die Grundlagen von n8n.
+Viele Grüße Mathias
 <!--
 **matitjahu556/matitjahu556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
