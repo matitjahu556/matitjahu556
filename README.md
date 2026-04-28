@@ -1,18 +1,17 @@
-## Hallo 👋
+## Hallo, ich bin Mathias 👋
 
-ich bin Mathias und interessiere mich für Antigravity und n8n.
-Viele Grüße Mathias
-<!--
-**matitjahu556/matitjahu556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Steuerberater aus Berlin mit einer digitalen One-Man-Kanzlei für KMU und Selbstständige.
 
-Here are some ideas to get you started:
+Mein Ding: herausfinden, wie KI und Automatisierung die Steuerberatung verändern – und das im Alltag ausprobieren statt nur drüber reden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Womit ich mich beschäftige
+
+- 🤖 **KI in der Kanzlei** – Claude, Prompting, AI-gestützte Workflows
+- ⚙️ **Automatisierung** – n8n, Firecrawl, alles was manuelle Arbeit überflüssig macht
+- 🧠 **Second Brain** – Obsidian als Wissenssystem für Kanzlei und Content
+- 🌐 **Web** – Hugo, Static Sites, digitale Sichtbarkeit
+
+### Links
+
+- 🏠 [mein-steuer-coach.de](https://mein-steuer-coach.de)
+- 📧 md@mein-steuer-coach.de
